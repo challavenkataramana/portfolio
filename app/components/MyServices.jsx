@@ -57,12 +57,12 @@ const MyServices = () => {
               {title}
             </h3>
             <p className="text-gray-700 text-sm leading-5">{description}</p>
-            <a
+            {/* <a
               href={link}
               className="flex items-center gap-2 text-sm mt-5  text-blue-500 hover:underline"
             >
               Learn More <Image src={assets.right_arrow} alt="" />
-            </a>
+            </a> */}
           </motion.div>
         ))}
       </motion.div>

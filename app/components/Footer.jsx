@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-10 py-6">
-        <p>@2025 Challa Venkata Ramana.All rights reseerved.</p>
+        <p>@2025 Challa Venkata Ramana.All rights reserved.</p>
         <ul className="flex items-center justify-center gap-6 mt-4 sm:mt-0">
           <li>
             <a target="_blank" href="https://www.linkedin.com/in/challa-venkata-ramana-7a2094280/">

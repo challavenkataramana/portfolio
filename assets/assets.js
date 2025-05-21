@@ -106,7 +106,7 @@ export const workData = [
         src: 'https://github.com/challavenkataramana/Multibooking_Application'
     },
     {
-        title: 'Face Recognition-Based Attendance System',
+        title: 'Face Recognition Attendance',
         description: 'A platform for managing attendance using face recognition technology.',
         bgImage: '/work-2.png',
         src: 'https://github.com/challavenkataramana/Face-Recognition-Attendence-System-Project'

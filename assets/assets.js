@@ -106,10 +106,10 @@ export const workData = [
         src: 'https://github.com/challavenkataramana/Multibooking_Application'
     },
     {
-        title: 'Public Issue Reporting',
-        description: 'A platform for reporting and tracking municipal issues.',
+        title: 'Face Recognition-Based Attendance System',
+        description: 'A platform for managing attendance using face recognition technology.',
         bgImage: '/work-2.png',
-        src: 'https://github.com/challavenkataramana/Frontend-Public_Issue_Reporting'
+        src: 'https://github.com/challavenkataramana/Face-Recognition-Attendence-System-Project'
     },
     {
         title: 'Traffic Flow Prediction',
